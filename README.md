@@ -118,8 +118,10 @@ The Streamlit application allows users to:
 ```bash
 streamlit run streamlit_app.py
 ```
-### 📊 Streamlit Screenshot
-![streamlit_SS](screenshot/streamlit_ss.png)
+### 📊 Streamlit Screenshots
+![streamlit_SS](screenshot/hourse_mackerel.png)
+![streamlit_SS](screenshot/shrimp.png)
+![streamlit_SS](screenshot/animal_fish.png)
 
 ---
 
